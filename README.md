@@ -15,3 +15,9 @@ Create config.json in bin > Debug that looks like this: <br />
 } <br />
 Replace the {} with what the request. <br />
 Feel free to dm if you need help! twitter @rarefushion or whatever <br />
+<br />
+How to use within discord: <br />
+there will be built in commands. use / to display them. should be self explanatory, you have: <br />
+/add {quantity} {itemName} and optional {path} for orginizing different inventories <br />
+you also have /listitems {@user} <br />
+if these don't show up when typing / something went wrong and the bot wont work. You have to use the fillable fields. <br />
