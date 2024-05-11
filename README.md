@@ -1,4 +1,7 @@
 # Inventory-Manager-Discord-Bot
+![image](https://github.com/rarefushion/Inventory-Manager-Discord-Bot/assets/13991987/83b93f9e-7330-4c79-b882-e1119be66c03)
+![image](https://github.com/rarefushion/Inventory-Manager-Discord-Bot/assets/13991987/088f3e6a-ec9c-4efa-93e2-116a4d225cb8)
+
 You'll need to look up a video on how to make a discord bot. This is just the code part. <br />
 How to use: <br />
 Create a console .net app with VS <br />
